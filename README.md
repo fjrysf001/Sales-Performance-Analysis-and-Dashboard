@@ -47,3 +47,15 @@ Investigate the root cause of the 2005 sales decline (pricing, competition, supp
 Diversify sales strategies to improve performance in Q1–Q3
 Implement data-driven forecasting for inventory and demand planning
 Strengthen customer engagement to reduce dependency on seasonal sales
+
+📊 Dashboard
+<img width="1920" height="1032" alt="Screenshot 2026-05-03 103423" src="https://github.com/user-attachments/assets/96d094a9-d251-4911-9913-fdcc833cb443" />
+<img width="1920" height="1032" alt="Screenshot 2026-05-03 103411" src="https://github.com/user-attachments/assets/8e8f0219-b20f-4dda-a00d-f48bdd221038" />
+<img width="1920" height="1032" alt="Screenshot 2026-05-03 103359" src="https://github.com/user-attachments/assets/cdc3d764-7ee1-4270-b11c-780be50b7919" />
+<img width="1920" height="1032" alt="Screenshot 2026-05-03 103345" src="https://github.com/user-attachments/assets/0eb0efc0-2f6a-4193-8433-0821b7282144" />
+<img width="1920" height="1032" alt="Screenshot 2026-05-03 103332" src="https://github.com/user-attachments/assets/50224c88-b816-407d-838c-26899e53ffdb" />
+
+
+
+
+
